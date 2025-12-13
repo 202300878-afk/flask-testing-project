@@ -4,7 +4,7 @@
 Simple RESTful CRUD API application using [Flask](http://flask.pocoo.org) & [SQLAlchemy](http://www.sqlalchemy.org), and connecting the both using [Flask-SQLAlchemy](http://flask-sqlalchemy.pocoo.org) library.
 
 In this application we are connecting a MySQL database in a python flask file in which there are THREE tables Category, Author, and Books. The Book table contains One-to-Many relationship with Categories and Authors. We use to add a new category, author, book in the database, retrieve them. And later we can update and delete from the database.
-
+ci trigger
 
 ## Getting started
 * At first you'll need to get the source code of the project. Do this by cloning the [Flask-SQLAlchemy-RESTful-CRUD repository](https://github.com/fatematzuhora/Flask-SQLAlchemy-RESTful-CRUD).
