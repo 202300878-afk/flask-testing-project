@@ -13,7 +13,7 @@ $ git clone https://github.com/fatematzuhora/Flask-SQLAlchemy-RESTful-CRUD.git
 $ cd Flask-SQLAlchemy-RESTful-CRUD
 ```
 hola
-
+como estamos
 hola
 * Create a virtual environment for this project and install dependencies
 ```
